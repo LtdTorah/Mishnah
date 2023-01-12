@@ -7,4 +7,10 @@ DAO:
 
 https://app.realms.today/dao/ARdXKAXMwrr5wFPbAhRv7oChMKvKwgzJMTDvzEtqepAb
 
+Reddit:
 
+https://www.reddit.com/r/mishnah202301121505/
+
+Solscan:
+
+https://solscan.io/token/FfPSV3wW5xYoU9kWCcN25qPwSpVjZgCVBjdWTSta1sHW
