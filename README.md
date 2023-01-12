@@ -7,6 +7,4 @@ DAO:
 
 https://app.realms.today/dao/ARdXKAXMwrr5wFPbAhRv7oChMKvKwgzJMTDvzEtqepAb
 
-Reddit:
 
-https://www.reddit.com/r/tanakh202301121217/
