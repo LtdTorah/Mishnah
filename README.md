@@ -14,3 +14,11 @@ https://www.reddit.com/r/mishnah202301121505/
 Solscan:
 
 https://solscan.io/token/FfPSV3wW5xYoU9kWCcN25qPwSpVjZgCVBjdWTSta1sHW
+
+Pancakeswap:
+
+https://aptos.pancakeswap.finance/add/0x1::aptos_coin::AptosCoin/0xd24a11f561237e5368f7cef7c79d5b661a3b083da0f0f957817ff9ad7bbf66ea::coin::T
+
+Apscan:
+
+https://apscan.io/coin/0xd24a11f561237e5368f7cef7c79d5b661a3b083da0f0f957817ff9ad7bbf66ea::coin::T
